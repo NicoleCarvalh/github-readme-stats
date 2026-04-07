@@ -4,7 +4,7 @@ export const themes = {
     title_color: "1eb386",
     text_color: "ffffff",
     icon_color: "1eb386",
-    border_color: "ffffff";
+    border_color: "ffffff",
   },
   default: {
     title_color: "2f80ed",
