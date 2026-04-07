@@ -1,4 +1,10 @@
 export const themes = {
+  nicole_green: {
+    bg_color: "28333f",
+    title_color: "1eb386",
+    text_color: "ffffff",
+    icon_color: "1eb386",
+  },
   default: {
     title_color: "2f80ed",
     icon_color: "4c71f2",
